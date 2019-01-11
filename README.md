@@ -18,4 +18,3 @@ NB: 0.755178 (0.042766)<br />
 SVM: 0.651025 (0.072141)<br /> 
 
 ![alt text](/Figure_1.png)
-# MLcomparison
